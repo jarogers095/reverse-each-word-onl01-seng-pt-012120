@@ -5,7 +5,7 @@ def reverse_each_word(sentence)
     return word.reverse
   end
   
-  print reverse_word_array
+  puts reverse_word_array
   
   reversed_sentence = reverse_word_array.join
   return reversed_sentence
