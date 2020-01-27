@@ -1,4 +1,4 @@
-include pry
+using pry
 
 def reverse_each_word(sentence)
   word_array = sentence.split(" ")
